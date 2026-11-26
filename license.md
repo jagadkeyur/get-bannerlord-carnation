@@ -202,4 +202,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Mount & Blade II: Bannerlord · Updated 2026-11-25 · Shared under the MIT License*
+*Mount & Blade II: Bannerlord · Updated 2026-11-26 · Shared under the MIT License*
